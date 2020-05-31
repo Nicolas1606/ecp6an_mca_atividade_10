@@ -23,7 +23,7 @@ public class TesteInserePrevisao {
 		p.setTemperaturaMax(10.0);
 		p.setUmidadeRelAr(75.0);
 		p.setLocalDate(LocalDate.now());
-		p.setDescricao("Domingo terá temperatura maxima de 16 graus e a minima de 8 graus celcius, com umidade do ar de 25%");
+		p.setDescricao("Domingo com temperatura maxima de 16 graus e a minima de 8 graus celcius e umidade com 25%");
 		p.setLatitude(-23.7141);
 		p.setLongitude(-46.4137);
 		p.setSemana(s);
